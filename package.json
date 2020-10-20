@@ -28,7 +28,7 @@
     "prepublish": "tsc"
   },
   "dependencies": {
-    "@abacus-insights/fhir-works-on-aws-interface": "^2.0.0",
+    "fhir-works-on-aws-interface": "^1.0.0",
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
